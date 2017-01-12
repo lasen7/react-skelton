@@ -9,3 +9,7 @@ Setting:
  - redux-logger
  - redux-promise-middleware
  - redux-thunk
+
+start:
+ - npm install
+ - npm start
